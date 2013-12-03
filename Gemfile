@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 
 # monkey patching to support dual booting
 module Bundler::SharedHelpers
